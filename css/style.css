@@ -584,6 +584,15 @@ Footer End ***/
   /* Hide the images by default */
   .mySlides {
     display: none;
+   
+  }
+
+
+  .slideshow{
+    position: relative;
+    width: 80%;
+    /* Change the width to your desired value */
+    margin: 0 auto; /* This centers the container horizontally */
   }
   
   /* Add a pointer when hovering over the thumbnail images */
