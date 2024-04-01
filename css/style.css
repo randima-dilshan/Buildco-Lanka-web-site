@@ -892,3 +892,34 @@ Footer End ***/
     align-items: center;
     margin-top: 4rem; /* Adjust margin-top as needed */
 }
+
+
+
+/* Custom Styles for Contact Details */
+.contact-details {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+.contact-info-item {
+    margin-bottom: 30px;
+}
+
+.contact-info-item i {
+    font-size: 36px;
+    color: #a01c21;
+}
+
+.contact-info h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #666;
+    margin-bottom: 0;
+}
